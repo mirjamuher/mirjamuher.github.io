@@ -65,49 +65,49 @@ header {
 }
 
 .back {
-    background-image: url("pictures/back.jpg");
+    background-image: url("Pictures/back.jpg");
     background-size: cover;
     border: 3px solid black;
 }
 
 .pic1{
-    background-image: url("pictures/Harry_Potter.png");
+    background-image: url("Pictures/Harry_Potter.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .pic2{
-    background-image: url("pictures/Deathly\ Hallows.png");
+    background-image: url("Pictures/Deathly\ Hallows.png");
     background-size: contain;
 }
 
 .pic3{
-    background-image: url("pictures/Hagrid.jpg");
+    background-image: url("Pictures/Hagrid.jpg");
     background-size: contain;
 }
 
 .pic4{
-    background-image: url("pictures/Ron.jpg");
+    background-image: url("Pictures/Ron.jpg");
     background-size: cover;
 }
 
 .pic5{
-    background-image: url("pictures/Hermoine.jpg");
+    background-image: url("Pictures/Hermoine.jpg");
     background-size: cover;
 }
 
 .pic6{
-    background-image: url("pictures/Luna.jpg");
+    background-image: url("Pictures/Luna.jpg");
     background-size: cover;
 }
 
 .pic7{
-    background-image: url("pictures/Hogwarts.jpg");
+    background-image: url("Pictures/Hogwarts.jpg");
     background-size: contain;
 }
 
 .pic8{
-    background-image: url("pictures/Dumbledore.jpg");
+    background-image: url("Pictures/Dumbledore.jpg");
     background-size: cover;
 }
 
